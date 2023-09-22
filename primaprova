@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentazione</title>
+</head>
+<body>
+    <h1 style="margin-left: 40%;" style="font-size: 180%;">
+         <span style="color: red">
+            MIRCO OROSIO </span>
+    </h1>
+    <div>
+        <p style="font-size: 110%;">
+            Ciao a tutti. Sono Mirco, vivo ad Ospedaletto Euganeo ed ho 22 anni.
+            <br>
+            Ho studiato al liceo scientifico con opzione latino pensando di fare un percorso dopo il diploma, tuttavia a metà studi mi
+            sono accorto che la mia passione era più sbilanciata verso l'informatica. 
+            <br>
+            Perciò ho deciso di cercare un percorso che possa essere adatto a me e mi sono imbattutto in epicode. 
+        </p>
+    </div>
+    <h3>
+        <span style="color: red" style="font-size: 130%;">HOBBY</span>
+    </h3>
+    <div style="font-size: 110%;">
+        <ul>
+            <li>Escursioni in mezzo ai boschi</li>
+            <li>Anime e manga</li>
+            <li>Videogiochi</li>
+        </ul>
+    </div>
+    <h3>
+        <span style="color: red" style="font-size: 130%;">ESPERIENZE LAVORATIVE</span>
+    </h3>
+    <div style="font-size: 110%;">
+        <ul>
+            <li>2020-21 magazziniere ad Amazon </li>
+            <li>2021 pizzaiolo </li>
+            <li>2022-23 supercato tosano reparto ortofrutta</li>
+        </ul>
+    </div>
+    <h3>
+        <span style="color: red" style="font-size: 130%;">CONTACT INFO</span>
+    </h3>
+    <div style="font-size: 110%;">
+        Tel: 3458906659
+        <br>
+        gmail: mircoorosio@gmail.com
+        <br>
+        
+    </div>
+
+</body>
+</html>
